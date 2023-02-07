@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuthAPI", "AngularAuthAPI\AngularAuthAPI.csproj", "{67832125-047E-4E02-AB98-5FA32896FE5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67832125-047E-4E02-AB98-5FA32896FE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67832125-047E-4E02-AB98-5FA32896FE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67832125-047E-4E02-AB98-5FA32896FE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67832125-047E-4E02-AB98-5FA32896FE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3712C05D-0FCB-42F2-A82F-5B3A71996AD4}
+	EndGlobalSection
+EndGlobal
